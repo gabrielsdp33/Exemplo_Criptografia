@@ -1,0 +1,16 @@
+E:\ESTUDOS\projetosVisualStudio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\ESTUDOS\projetosVisualStudio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\ESTUDOS\projetosVisualStudio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\gspaula\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\gspaula\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\gspaula\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\Teste_Gerador_Token.csprojAssemblyReference.cache
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\Teste_Gerador_Token.csproj.GenerateResource.cache
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\Teste_Gerador_Token.csproj.CoreCompileInputs.cache
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\gspaula\Documents\PROJETOS\CODIGOS TESTE\Exemplo Donni Criptografia\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
